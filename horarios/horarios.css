@@ -1,12 +1,17 @@
+/*
 * {
     margin: 0%;
     padding: 0%;
 }
-/*
+*/
 .fondo {
     background-color: rgb(160, 99, 218);
 }
-
+.nav-link {
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+/*
 .logo {
     width: 300px;
     height: 280px;
@@ -27,21 +32,24 @@
     list-style-type: none;  
 }
 
-
+*/
 .hora1 {
+    color: rgb(12, 235, 34);
     position: relative;
     font-style: italic;
     font-family: fantasy;
     font-size: 30px;
     left: 450px;
 }
-
+/*
 .menu1 {
     font-style: italic;
     font-family: fantasy;
     font-size: 30px;
 }
+*/
 .hora {
+    color: indigo;
     position: relative;
     font-style: italic;
     font-family: fantasy;
@@ -49,6 +57,11 @@
     left: 200px;
     line-height: 3;
 }
+
+.hora2 {
+    color: indigo;
+}
+/*
 .pie{
     background-color: darkblue;
     position: relative;
