@@ -1,11 +1,28 @@
+/*
 * {
     margin: 0%;
     padding: 0%;
 }
+*/
 
 .fondo {
     background-color: rgb(160, 99, 218);
 }
+
+.nav-link {
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+.titserv {
+    font-size: 70px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.coloresfondo {
+    display: inline;
+    background-color: indigo;
+}
+
+/*
 
 .menu-central {
     display: flex;
@@ -54,8 +71,6 @@
 
 .pie{
     background-color: darkblue;
-    position: relative;
-    left: 0%;
 }
 
 .h3 {
@@ -69,17 +84,17 @@
 .face {
     position: relative;
     left: 200px;
-    bottom: 50px;
+    bottom: 100px;
 }
 .insta {
     position: relative;
     left: 350px;
-    bottom: 50px;
+    bottom: 100px;
 }
 .youtube {
     position: relative;
     left: 500px;
-    bottom: 50px;
+    bottom: 100px;
     width: 100px;
 }
 
@@ -91,3 +106,4 @@
     font-size: 40px;
     top: 80px;
 }
+*/
